@@ -6,6 +6,6 @@ the Web app sends an SMS to the mobile, and the code in the SMS is entered into 
 Two drivers are created in a single test - RemoteWebDriver and IOSDriver, the later using NATIVE_APP context. 
 
 **To do before running this test**:
-# Define your lab, username, and password.
-# Determine phone number of the mobile to use for this test. Insert mobile ID and number in script right before mobileDrive creation.
-# Create an account in Airbnb with your email and a password, and enter these in the script at point of login to Airbnb.
+#Define your lab, username, and password.
+#Determine phone number of the mobile to use for this test. Insert mobile ID and number in script right before mobileDrive creation.
+#Create an account in Airbnb with your email and a password, and enter these in the script at point of login to Airbnb.
