@@ -64,14 +64,4 @@ public class desktopTest{
 		driver.quit();
 	}
 	
-	
-	public static void main(String[] args) throws MalformedURLException {
-		desktopTest t = new desktopTest();
-		t.logIn();
-		t.search();
-		t.deleteRating();
-		t.finishDesktopSession();
-	}
-	
-	
 }
