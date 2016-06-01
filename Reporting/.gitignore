@@ -17,3 +17,8 @@ target/
 # IntelliJ folders and files
 .idea/
 *.iml
+
+# Eclipse folders and files
+*.classpath
+*.prefs
+*.project
