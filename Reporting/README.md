@@ -7,6 +7,7 @@ Detailed instructions on running the examples can be found by framework:
 
 - [TestNG sample](testng-sample/testng.md)
 - [JUnit sample](junit-sample/junit.md)
+- [Main sample](main-sample)
 
 # Running locally during test authoring
 Test authoring phase is performed using a local FirefoxDriver instance. During this phase the reportium client outputs its messages to the command line.
