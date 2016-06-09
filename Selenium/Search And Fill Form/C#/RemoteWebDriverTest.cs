@@ -20,10 +20,10 @@ namespace GoogleSearchAndFillForm
         {
         	
         	var browserName = "mobileOS";
-			//TODO: Provide you cloud host, user and password.
+		//TODO: Provide you cloud host, user and password.
         	var host = "My_Host.perfectomobile.com";
-			var user = "My_User";
-			var pass = "My_Password";
+		var user = "My_User";
+		var pass = "My_Password";
 
             DesiredCapabilities capabilities = new DesiredCapabilities(browserName, string.Empty, new Platform(PlatformType.Any));
             capabilities.SetCapability("user", user);
