@@ -1,4 +1,4 @@
-# C# Sample
+# Python Sample
 
 **TO DO:**
 - Create a Python project using your desired IDE (eclipse pydev + perfecto plugin project is recommended! ).
