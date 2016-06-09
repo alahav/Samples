@@ -18,6 +18,7 @@ namespace GoogleSearchAndFillForm
         [TestInitialize]
         public void PerfectoOpenConnection()
         {
+        	
         	var browserName = "mobileOS";
 			//TODO: Provide you cloud host, user and password.
         	var host = "My_Host.perfectomobile.com";
