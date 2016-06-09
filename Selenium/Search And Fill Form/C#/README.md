@@ -1,4 +1,4 @@
-# C# Samples
+# C# Sample
 
 **TO DO:**
 - Create a C# project on visual studio (Test project or use perfecto plugin to create a perfecto's project).
