@@ -1,4 +1,3 @@
-# Selenium code samples.
 # Code sample of search in google and fill a form.
 
 **To do before running this test (for all programming language)**:
