@@ -1,4 +1,4 @@
-# Google search and Form entry
+# Google search & Form entry
 
 **Prerequisites**
 
