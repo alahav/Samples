@@ -1,4 +1,4 @@
-# Ruby Samples
+# Ruby Sample
 
 **TO DO:**
 - Download the Ruby test.
