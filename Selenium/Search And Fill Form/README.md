@@ -1,5 +1,6 @@
-# Code sample of search in google and fill a form.
+# Google search and Form entry
 
-**To do before running this test (for all programming languages)**:
-- Download selenium webdriver / Perfecto plugin - can be downloaded from : https://community.perfectomobile.com/ . 
-- Have a perfecto cloud , user and password.
+**Prerequisites**
+
+- Download [Selenium WebDriver / Perfecto plugin](https://www.perfectomobile.com/download-integrations).
+- Perfecto Lab credentials
